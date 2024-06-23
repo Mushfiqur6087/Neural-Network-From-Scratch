@@ -1,0 +1,1 @@
+Created a neural network (layers,forwarding,backpropagation) from scratch using c++. You can also use different optimization function like Adagrad,Adam,RMSprop and SGD. You can select Sigmoid, softmax and ReLU as activation functions.
