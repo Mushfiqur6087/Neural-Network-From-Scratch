@@ -1,1 +1,2 @@
-Created a neural network (layers,forwarding,backpropagation) from scratch using c++. You can also use different optimization function like Adagrad,Adam,RMSprop and SGD. You can select Sigmoid, softmax and ReLU as activation functions.
+This repository contains a neural network implementation from scratch in C++ featuring multiple layers, forward propagation, backpropagation, and various optimization techniques.
+The network supports several activation functions including Sigmoid, Softmax, and ReLU.
